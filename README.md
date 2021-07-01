@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Sounmay 👋 </h1>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/Sounmay/Sounmay/master/resources/banner.png" alt="Hello world">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Sounmay/count.svg" />
