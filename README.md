@@ -42,11 +42,7 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sounmay)
-
-
-
-![Sounmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sounmay)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sounmay)  ![Sounmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sounmay)
 
 
 <br />
